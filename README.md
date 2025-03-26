@@ -1,4 +1,4 @@
-## 📄 About Me
+
 
 I am a **backend developer** specializing in **Django and Flask**, with a strong focus on **data analysis**. Currently, I am a **BS student in my 6th semester**, continuously learning and growing my expertise in backend technologies and databases.
 
