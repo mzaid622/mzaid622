@@ -1,3 +1,16 @@
 I am a Data Science enthusiast with a strong foundation in Python, data analysis, and visualization. Currently, I am a BS Computer Science student in my 6th semester, building projects in machine learning, data analytics, and data engineering to prepare for a career as a Data Scientist.
-🚀 Technologies That I Know
-<table> <tr> <th>Programming</th> <th>Data Science & ML</th> <th>Tools</th> </tr> <tr> <td align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <br> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"> </td> <td align="center"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <br> <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"> <br> <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"> <br> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"> </td> <td align="center"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"> <br> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <br> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> </td> </tr> </table>
+## 🚀 Technologies & Tools
+
+<p align="center">
+  <!-- Programming -->
+  <img src="https://skillicons.dev/icons?i=python,sqlite,mysql,postgresql" />
+  <br>
+  <!-- Data Science -->
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=plotly&logoColor=black">
+  <img src="https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <br>
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=jupyter,vscode,github" />
+</p>
