@@ -1,4 +1,7 @@
-I am a Data Science enthusiast with a strong foundation in Python, data analysis, and visualization. Currently, I am a BS Computer Science student in my 6th semester, building projects in machine learning, data analytics, and data engineering to prepare for a career as a Data Scientist.
+💡 About Me
+I’m a passionate Data Science enthusiast with a strong foundation in Python, data analysis, and visualization.
+Currently in my 7th semester of BS Computer Science, I’m focused on building impactful projects in machine learning, data analytics.
+My goal is to transform complex datasets into meaningful insights and prepare for a professional career as a Data Scientist.
 ## 🚀 Technologies & Tools
 
 <p align="center">
