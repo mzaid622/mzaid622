@@ -1,7 +1,14 @@
-💡 About Me
-I’m a passionate Data Science enthusiast with a strong foundation in Python, data analysis, and visualization.
-Currently in my 7th semester of BS Computer Science, I’m focused on building impactful projects in machine learning, data analytics.
-My goal is to transform complex datasets into meaningful insights and prepare for a professional career as a Data Scientist.
+## 💡 About Me  
+
+Hi there! 👋  
+I’m **Zaid Mughal**, a **Data Science enthusiast** with a strong foundation in **Python, data analysis, and visualization**.  
+Currently in my **7th semester of BS Computer Science**, I’m passionate about:  
+
+- 📊 **Transforming data into actionable insights**  
+- 🤖 **Building Machine Learning models**  
+- 📈 **Creating impactful data visualizations**  
+
+I’m actively building projects in **machine learning**, **data analytics**, and **data engineering** to prepare for a career as a **Data Scientist**.  
 ## 🚀 Technologies & Tools
 
 <p align="center">
