@@ -8,7 +8,7 @@ Currently in my **7th semester of BS Computer Science**, I’m passionate about:
 - 🤖 **Building Machine Learning models**  
 - 📈 **Creating impactful data visualizations**  
 
-I’m actively building projects in **machine learning**, **data analytics**, and **data engineering** to prepare for a career as a **Data Scientist**.  
+I’m actively building projects in **machine learning**, **data analytics** to prepare for a career as a **Data Scientist**.  
 ## 🚀 Technologies & Tools
 
 <p align="center">
