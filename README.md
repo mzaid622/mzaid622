@@ -28,14 +28,16 @@ I’m actively building projects in **machine learning**, **data analytics** to 
 
 <h2>📈 GitHub Stats</h2>
 
-<a href="https://github.com/mzaid622/mzaid622">
-  <p align="center">
+## 📈 GitHub Stats
+<a>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mzaid622&show_icons=true&count_private=true&theme=radical" alt="Zaid GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzaid622&layout=compact&theme=radical" alt="Top Langs" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=mzaid622&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=mzaid622&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
+
 </a>
 
 <br/>
