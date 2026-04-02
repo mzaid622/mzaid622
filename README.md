@@ -10,32 +10,25 @@ Currently in my **7th semester of BS Computer Science**, I’m passionate about:
 
 I’m actively building projects in **machine learning**, **data analytics** to prepare for a career as a **Data Scientist**.  
 ## 🚀 Technologies & Tools
-<h2 align="center">⚡ Tech Stack</h2>
+<h2 align="center">🚀 Tech Stack</h2>
 
-<p align="center">
+<div align="center">
 
-<!-- Programming & Backend -->
+### 💻 Programming & Databases
 <img src="https://skillicons.dev/icons?i=python,sqlite,mysql,postgresql&theme=dark" />
 
-</p>
-
-<p align="center">
-
-<!-- Data Science -->
+### 📊 Data Science
 <img src="https://skillicons.dev/icons?i=python&theme=dark" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-white?style=flat-square&logo=plotly&logoColor=black"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 
-</p>
-
-<p align="center">
-
-<!-- Tools -->
+### 🛠 Tools
 <img src="https://skillicons.dev/icons?i=jupyter,vscode,github&theme=dark" />
 
-</p>
+</div>
 
 
 
